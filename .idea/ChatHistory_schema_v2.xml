@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChatHistoryState">
+    <option name="serializedSessions">
+      <map>
+        <entry key="0b33e94d-3438-4b18-be81-b12177c80cc0" value="{&quot;id&quot;:&quot;0b33e94d-3438-4b18-be81-b12177c80cc0&quot;,&quot;name&quot;:&quot;Uploading Code to GitHub&quot;,&quot;timestamp&quot;:1743595010939,&quot;messages&quot;:[{&quot;role&quot;:&quot;user&quot;,&quot;content&quot;:&quot;\u003cuser_query\u003e\n작성한 코드를 깃 허브에 등록하고 업로드 하고 싶어 방법을 알려줘\n\u003c/user_query\u003e&quot;}]}" />
+      </map>
+    </option>
+  </component>
+</project>
